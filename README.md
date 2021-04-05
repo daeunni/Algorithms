@@ -6,7 +6,7 @@ https://programmers.co.kr/learn/courses/57
 
 ### 2) Project Euler (.py)
 
-### 3) Coding Test (python) 
+### 3) Baek Joon (python) 
 https://www.acmicpc.net/
 
 

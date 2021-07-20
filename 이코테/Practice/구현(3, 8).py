@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # 9. 문자열 압축 : 문자열의 단위 중 가장 짧게 압축 되는 것을 반환 
 
 def solution(s):   # s = 문자열
@@ -33,9 +27,6 @@ def solution(s):   # s = 문자열
     return answer  # 가장 작은게 반환됨 
 
 ## 이 생각을 대체 어떻게해요....역시 카카오....
-
-
-# In[2]:
 
 
 # 14. 외벽점검 : 외벽 둘레, distance에 맞는 최소 친구 수 출력 

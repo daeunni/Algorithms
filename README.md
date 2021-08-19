@@ -1,5 +1,8 @@
 # Algorithms💻 (with python)
 
+See [useful functions](https://github.com/daeunni/Algorithms/blob/main/useful_functions.md) ! 👀
+
+
 
 ### 1) Programmers Lecture (.ipynb) 
 - 2021.01 ~ 2021.02   
@@ -9,7 +12,6 @@
 ------------------------------------------
 ### 2) 이것이 코딩테스트다 (.ipynb & .py) 
 - 2021.07 ~ 
-https://www.notion.so/keom/2e81dfa190ab473eb3787744ddf06c32
 
 |알고리즘|수행여부|
 |------|------|

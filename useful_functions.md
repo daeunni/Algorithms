@@ -2,7 +2,7 @@
 
 1. 2차원 리스트를 왼쪽으로 90도 회전하는 함수
 
-'''
+```python
 def rotate_matrix_90degree(a):
     n = len(a)
     m = len(a[0])
@@ -11,4 +11,4 @@ def rotate_matrix_90degree(a):
         for j in range(m):
             result[j][n-i-1] = a[i][j]
     return result
-'''
+```
